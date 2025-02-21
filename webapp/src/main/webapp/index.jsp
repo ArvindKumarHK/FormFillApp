@@ -9,6 +9,15 @@
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
+
+    <label for="name"><b>SEX</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
+
+    <label for="name"><b>AADAR</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
