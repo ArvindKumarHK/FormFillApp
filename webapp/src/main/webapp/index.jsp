@@ -10,6 +10,10 @@
     <br>
 
 
+    <label for="name"><b>NAME</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
+
     <label for="name"><b>FATHER</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
