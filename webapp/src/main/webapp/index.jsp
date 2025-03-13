@@ -14,6 +14,11 @@
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>MOTHER</b></label>
+    <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
+
+
     <label for="name"><b>AADAR</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
